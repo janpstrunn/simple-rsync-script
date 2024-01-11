@@ -32,4 +32,5 @@ Run the script, and give the directories path. The script must be executable
 
 Example:
 ``./simple-rsync-script path/to/directory path/to/directory``
-``./simple-rsync-script /$HOME/Downloads/ /$HOME/Documents/
+
+``./simple-rsync-script /$HOME/Downloads/ /$HOME/Documents/``
