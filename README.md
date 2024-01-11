@@ -10,7 +10,7 @@ Is a really simple shell script which allows you to run the following commands b
 
 *dir1 is the source directory and dir2 is the directory to receive changes.
 
-After the command successful, you are presented with another option to run: ``diff -R "$dir1" "$dir2"``, which shows you recursively the differences in both directories.
+After the command successful, you are presented with another option to run: ``diff -R "$dir1" "$dir2"``, which shows you, recursively, the differences in both directories.
 
 ## rsync-delete.sh
 
@@ -28,7 +28,7 @@ Allows you to only update all the files, adding the ones that are missing and up
 - rsync
 
 ## Usage:
-Run the script, and give the directories path. The script must be executable
+Run the script, and give the directories path. The script must be executable.
 
 Examples:
 
