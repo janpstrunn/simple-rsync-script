@@ -4,7 +4,10 @@ Don't expect it to be something else, but simple.
 
 ## simple-rsync-script
 
-Is a really simple shell script which allows you to run the following commands by opt: 'rsync -av --delete "$dir1" "$dir2"' or 'rsync -av --update "$dir1" "$dir2"', where dir1 is the source directory and dir2 is the directory to receive changes.
+Is a really simple shell script which allows you to run the following commands by opt: 
+
+``'rsync -av --delete "$dir1" "$dir2"'`` or ``'rsync -av --update "$dir1" "$dir2"'``
+*dir1 is the source directory and dir2 is the directory to receive changes.
 
 After the command successful, you are presented with another option to run: 'diff -R "$dir1" "$dir2"'.
 
