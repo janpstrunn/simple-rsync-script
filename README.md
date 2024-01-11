@@ -30,7 +30,8 @@ Allows you to only update all the files, adding the ones that are missing and up
 ## Usage:
 Run the script, and give the directories path. The script must be executable
 
-Example:
+Examples:
+
 ``./simple-rsync-script path/to/directory path/to/directory``
 
 ``./simple-rsync-script /$HOME/Downloads/ /$HOME/Documents/``
