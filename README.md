@@ -22,3 +22,8 @@ Allows you to only update all the files, adding the ones that are missing and up
 
 ## Required dependencies:
 - rsync
+
+## Usage:
+Run the script, and give the directories path
+Example:
+``./simple-rsync-script path/to/directory path/to/directory``
