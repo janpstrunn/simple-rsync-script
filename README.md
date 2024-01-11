@@ -22,7 +22,7 @@ Allows you to create a identical replica of the directory source, deleting every
 
 Is the script containing only the ``rsync -av --update "$dir1" "$dir2"`` command.
 
-Allows you to only update all the files, adding the ones that are missing and updating the oens that are old.
+Allows you to only update all the files, adding the ones that are missing and updating the ones that are old.
 
 ## Required dependencies:
 - rsync
