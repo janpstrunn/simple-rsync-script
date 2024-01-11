@@ -1,6 +1,6 @@
 # Simple rsync script
 
-Don't expect it to be nothing, but simple.
+Don't expect it to be something else, but simple.
 
 ## rsync-delete
 
