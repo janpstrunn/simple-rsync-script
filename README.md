@@ -1,4 +1,4 @@
-### Simple rsync script
+# Simple rsync script
 
 Don't expect it to be nothing, but simple.
 
