@@ -27,8 +27,6 @@ Allows you to only update all the files, adding the ones that are missing and up
 ## Required dependencies:
 - rsync
 
-### Official rsync github: https://github.com/WayneD/rsync
-
 ## Usage:
 Run the script, and give the directories path. The script must be executable.
 
@@ -37,3 +35,5 @@ Examples:
 ``./simple-rsync-script.sh path/to/directory path/to/directory``
 
 ``./simple-rsync-script.sh /$HOME/Downloads/ /$HOME/Documents/``
+
+## Official rsync github: https://github.com/WayneD/rsync
